@@ -23,10 +23,12 @@ class Ex1_3 extends Ex {
 public class Ex1 {
 	public static void main(String[] args){
 		Ex a;
+		/*
 		a = new Ex1_0();
 		a.execute();
 		a = new Ex1_2();
 		a.execute();
+		*/
 		a = new Ex1_3();
 		a.execute();
 	}
